@@ -4,3 +4,5 @@
 https://static.jagobd.com.bd/live-orgin/rajdhanitv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadim1.jpg" group-title="LIVE TV", RTV HD
 https://static.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadim1.jpg" group-title="LIVE TV", JAMUNA TV HD
+https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com
