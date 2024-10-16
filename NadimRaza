@@ -10,3 +10,5 @@ https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3
 https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUuTZld02OPJc8BF81xax1y3eddYh2hgBvu8iKnWCdyHOl6yb716aAnOFemhTnzOj5_rYctGKGF1hYMw3Wnqwa4latOCpwZlqELbMVu01W2ZwPALu051MDOcx4OebvhQNNqEZ9EO_1HWO5RvQXwrEScDccLREmV6dM_kAYz_8ABa22n9njM9lFJu0BV8L1/s1142/Screenshot_20240826-123024_1.jpg" group-title="LIVE TV", Channel 24 HD
 https://static.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/Nadim1.jpg" group-title="LIVE TV", DEEPTO TV
+https://static.jagobd.com.bd/live-orgin/deeptotv.stream/playlist.m3u8|referer=https://www.jagobd.com
