@@ -120,15 +120,14 @@ https://cdn2.pishow.tv/live/141/141_1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", MUSIC INDIA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=247600.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", MASTI MUSIC HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", KHUSHBO BANGLA  HD
+https://cdn3.pishow.tv/live/283/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", RONGEEN TV HD
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", Masranga TV HD
+http://xtv.ooo:8080/live/azhar1212/445566/245904.ts
 
 
 
