@@ -122,21 +122,10 @@ https://static.jagobd.com.bd/live-orgin/sanandatv.stream/playlist.m3u8|referer=w
 https://static.jagobd.com.bd/live-orgin/news24local.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", MATRI BHUMI TV
 https://static.jagobd.com.bd/live-orgin/matribhumitv.stream/playlist.m3u8|referer=www.017666.blogspot.com
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", SONY MAX HD
-http://xtv.ooo:8080/live/azhar1212/445566/109957.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", SONY TEN 5
-http://xtv.ooo:8080/live/azhar1212/445566/167580.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", JALSHA MOVIES HD
-http://xtv.ooo:8080/live/azhar1212/445566/245900.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRajaTV11.jpg" group-title="LIVE TV", ASTRO CRICKET HD
-http://xtv.ooo:8080/live/azhar1212/445566/167581.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", MASTI MUSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", RONGEEN TV HD
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", Masranga TV HD
-http://xtv.ooo:8080/live/azhar1212/445566/245904.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", ASTRO CRICKET HD
 https://fyfl.short.gy/017666.blogspot.com/astrocricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://fyfl.short.gy/NadimRazaTV.jpg" group-title="LIVE TV", SATAR SPORTS 1 HD
